@@ -1,9 +1,9 @@
 # Svobodná obec
-1. Vybrala by se vesnice s malym poctem obyvatel, idealne aby v ni uz par anarchopapitalistu zili, meli tam nemovitost. 
-1. Dalsi anarchokapitalisti by si tam prihlasili bydliste.
-1. Vytvorila by se kandidatka pro komunalni volby.  Pokud by pocet anarchokapitalstu  byl vetsi nez pocet zbylych obyvatel pak vse OK, jinak nutno presvedcovat puvodni obyvatele
-1. Zastupitelstvo by se muselo chovat v ramci platnych zakonu, ale vzdy by volili tu alternativu, ktera je nejblizsi anarchokapitlasmu. Napriklad by zrusilo vsechny poplatky a dalsi omezeni, ktere zrusit muze.
-1. Z rozopoctu obce by se nejprve zaplatilo to, co narizuje zakon a zbyla castka by se podle nejakeho klice (napriklad rovnomrne) rozdelila mezi obyvatele obce, kteri by s ni mohli disponovat, tak ze by s ni mohli podporit konkretni projekty (treba verejne osvetleni, uklid obce, atd.) Obyvatel by si mohl urcit i sveho zmocnence, ktery by rozhodoval za nej, svoji volbu by mohl kdykoliv zmenit. Projekty na ktere mohou obyvatele alokovat sve prostredky by museli splnovat nejake zakone povinnosti, ale asi je tam siroky prostor volby.
+1. Vybrala by se vesnice s malým počtem obyvatel, ideálně aby v ní už pár anarchopapitalistu žilo, měli tam nemovitost. 
+1. Další anarchokapitalisti by si tam přihlásili bydliště.
+1. Vytvořila by se kandidátka pro komunální volby.  Pokud by počet anarchokapitalstu  byl větší než počet zbylých obyvatel pak je vše OK, jinak nutno přesvědčovat původní obyvatele
+1. Zastupitelstvo by se muselo chovat v rámci platných zákonů, ale vždy by volili tu alternativu, která je nejbližší anarchokapitalismu. Například by zrušilo všechny poplatky a další omezení, které zrušit může.
+1. Z rozpočtu obce by se nejprve zaplatilo to, co nařizuje zákon a zbylá částka by se podle nějakého klíče (například rovnoměrně) rozdělila mezi obyvatele obce, kteří by s ní mohli disponovat, tak že by s ní mohli podpořit konkretní projekty (třeba veřejné osvětlení, úklid obce, atd.) Obyvatel by si mohl určit i svého zmocněnce, který by rozhodoval za něj, svojí volbu by mohl kdykoliv změnit. Projekty, na které mohou obyvatelé alokovat své prostředky, by museli splňovat nějaké zákonné povinnosti, ale asi je tam široký prostor volby.
 
 
 # Požadavky na obec
