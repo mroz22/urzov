@@ -1,4 +1,4 @@
-# Svobodný stát
+# Svobodná obec
 1. Vybrala by se vesnice s malym poctem obyvatel, idealne aby v ni uz par anarchopapitalistu zili, meli tam nemovitost. 
 1. Dalsi anarchokapitalisti by si tam prihlasili bydliste.
 1. Vytvorila by se kandidatka pro komunalni volby.  Pokud by pocet anarchokapitalstu  byl vetsi nez pocet zbylych obyvatel pak vse OK, jinak nutno presvedcovat puvodni obyvatele
