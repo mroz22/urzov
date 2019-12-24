@@ -26,5 +26,6 @@ module.exports = {
     "react/prop-types": "off",
     "import/prefer-default-export": "off",
     "func-names": "off",
+    "jsx-a11y/anchor-is-valid": "off" // next.js stuff
   },
 };

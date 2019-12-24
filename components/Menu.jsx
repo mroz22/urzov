@@ -1,0 +1,37 @@
+import React from 'react';
+import styled from 'styled-components';
+import Link from 'next/link';
+
+const Wrapper = styled.div`
+  display: flex;
+  justify-content: space-around;
+  margin-top: 4%;
+`;
+
+const Item = styled.div`
+  font-size: 1.4em;
+`;
+
+const Menu = () => {
+  const items = [{
+    label: 'Urzov',
+    href: '/',
+  }, {
+    label: 'Kdo jsme',
+    href: 'kdo-jsme',
+  }, {
+    label: 'Co chceme',
+    href: 'co-chceme',
+  }, {
+    label: 'Zapojit se',
+    href: 'zapojit-se',
+  }];
+
+  return (
+    <Wrapper>
+      {items.map((i) => <Item key={i.label}><Link href={i.href}><a>{i.label}</a></Link></Item>)}
+    </Wrapper>
+  );
+};
+
+export default Menu;
