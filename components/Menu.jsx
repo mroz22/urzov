@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 const Wrapper = styled.div`
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   margin-top: 4%;
 `;
 
@@ -29,7 +29,7 @@ const Menu = () => {
 
   return (
     <Wrapper>
-      {items.map((i) => <Item key={i.label}><Link href={i.href}><a>{i.label}</a></Link></Item>)}
+      {items.map((i) => <Item key={i.label}><Link href={i.href}><a style={{ textDecoration: 'none' }}>{i.label}</a></Link></Item>)}
     </Wrapper>
   );
 };

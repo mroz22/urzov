@@ -10,6 +10,8 @@ const Wrapper = styled.div`
     border: ${BORDER_THICKNESS}px dashed yellow;
     min-height: calc(100vh - 2 * ${BORDER_THICKNESS}px);
     text-align: center;
+    padding: 0 6%;
+
 `;
 
 const Content = styled.div``;
@@ -20,6 +22,10 @@ const Layout = ({ children }) => (
       {`
         @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
+        html {
+          height: 100%;
+        }
+
         body {
           font-family: 'Roboto', sans-serif;
           margin: 0;
@@ -27,13 +33,15 @@ const Layout = ({ children }) => (
           color: white;
         }
 
+        h1 {
+            font-size: 1.4em;
+        }
+
         a {
           color: yellow;
         }
 
-        html {
-          height: 100%;
-        }
+
       `}
     </style>
     <Menu />
