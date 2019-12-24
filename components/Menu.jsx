@@ -10,6 +10,7 @@ const Wrapper = styled.div`
 
 const Item = styled.div`
   font-size: 1.4em;
+  font-weight: bolder;
 `;
 
 const Menu = () => {
@@ -29,7 +30,7 @@ const Menu = () => {
 
   return (
     <Wrapper>
-      {items.map((i) => <Item key={i.label}><Link href={i.href}><a style={{ textDecoration: 'none' }}>{i.label}</a></Link></Item>)}
+      {items.map((i) => <Item key={i.label}><Link href={i.href}><a style={{ textDecoration: 'none' }}>{i.label.toUpperCase()}</a></Link></Item>)}
     </Wrapper>
   );
 };
