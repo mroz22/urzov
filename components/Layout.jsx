@@ -53,6 +53,14 @@ const Layout = ({ children }) => (
         a {
           color: yellow;
         }
+        
+        ol {
+          padding-inline-start: 25px;
+        }
+
+        ul {
+          padding-inline-start: 25px;
+        }
 
 
       `}
