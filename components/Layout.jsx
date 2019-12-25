@@ -2,15 +2,28 @@ import React from 'react';
 import styled from 'styled-components';
 
 import Menu from './Menu';
+import Svg from './Svg';
 
 const BORDER_THICKNESS = 20;
 
 const Wrapper = styled.div`
     background-color: black;
-    border: ${BORDER_THICKNESS}px dashed yellow;
-    min-height: calc(100vh - 2 * ${BORDER_THICKNESS}px);
+    /* border: ${BORDER_THICKNESS}px dashed yellow; */
+    border-left: ${BORDER_THICKNESS}px dashed yellow;
+    /* border-right: ${BORDER_THICKNESS}px dashed yellow; */
+
+    min-height: calc(100vh);
     text-align: center;
     padding: 0 6%;
+    max-width: 100vw;
+    overflow-x:hidden;
+`;
+
+const Houses = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 20px 0;
 
 `;
 
@@ -44,6 +57,13 @@ const Layout = ({ children }) => (
 
       `}
     </style>
+
+    <Houses>
+      <Svg src="house-2" size="80" />
+      <Svg src="house" size="80" />
+      <Svg src="house-2" size="80" />
+    </Houses>
+
     <Menu />
     <Content>
       { children}
