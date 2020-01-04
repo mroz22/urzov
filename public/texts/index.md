@@ -68,3 +68,5 @@ TODO seznam toho, co lze z obecního rozpočtu financovat s odkazem na zákon ne
 - Počet obyvatel obcí https://www.czso.cz/csu/czso/pocet-obyvatel-v-obcich-za0wri436p
 - Obce, kde se opakují volby https://cs.wikipedia.org/wiki/Seznam_voleb_do_zastupitelstev_obc%C3%AD_v_%C4%8Cesku_mimo_%C5%99%C3%A1dn%C3%BD_term%C3%ADn_(2018%E2%80%932022)
 - Změna trvalého bydliště https://www.mvcr.cz/clanek/hlaseni-trvaleho-pobytu-996765.aspx
+- Zákon o obcích (plnné znění) https://www.zakonyprolidi.cz/cs/2000-128
+- Zákon o obcích (vybrané části) http://tiny.cc/8zubiz
