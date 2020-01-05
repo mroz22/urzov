@@ -17,7 +17,7 @@ Zákon o rozpočtových pravidlech územních rozpočtů (250/2000 Sb.) § 9
 1. Sestavit přehled tooho, co lze z obecního rozpočtu financovat
 - Získat rozpočty malých obcí, aby se vytvořila představa o obvyklé struktuře rozpočtu
 - Získat rozpočty velkých obcí, aby se zjistilo, jaké jsou hranice, co vše je možné financovat
-1. Stanovit procesy a formalizovat je
+2. Stanovit procesy a formalizovat je
 - Nastudovat legislativu, zejména zákon o obcích
 - Vypracovat návrh informačního systém spravujícího virtuální účty
 
