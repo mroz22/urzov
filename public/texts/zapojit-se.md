@@ -4,4 +4,4 @@ V první fázi chceme dát dohromady seznam lidí, které to zajímá. Ať už j
 jak celá věc dopadla nebo máte chuť se nějak zapojit, nechte nám, prosím, svůj email. 
 Slibujeme, že ho neprodáme na darknetu. 
 
-Můžete nás kontaktovat emailem "urzov" v doméně "protonmail" tečka " com
+Můžete nás kontaktovat emailem "urzov" v doméně "protonmail" tečka "com"
