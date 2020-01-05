@@ -63,7 +63,7 @@ Vysoká Lhota (15), Čilá (19), Hradiště (24), Bludov (24), Kaničky (29), Č
 - Svobodná vesnice ve Švédsku https://www.liberstad.com/
 - Svobodný stát New Hampshire v USA https://www.fsp.org/
 - Počet obyvatel obcí https://www.czso.cz/csu/czso/pocet-obyvatel-v-obcich-za0wri436p
-- Obce, kde se opakují volby https://cs.wikipedia.org/wiki/Seznam_voleb_do_zastupitelstev_obc%C3%AD_v_%C4%8Cesku_mimo_%C5%99%C3%A1dn%C3%BD_term%C3%ADn_(2018%E2%80%932022)
+- Obce, kde se opakují volby https://tinyurl.com/up7spyq
 - Změna trvalého bydliště https://www.mvcr.cz/clanek/hlaseni-trvaleho-pobytu-996765.aspx
 - Zákon o obcích (úplné znění) https://www.zakonyprolidi.cz/cs/2000-128
 - Zákon o obcích (vybrané části) http://tiny.cc/8zubiz
