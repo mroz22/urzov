@@ -32,16 +32,6 @@
 1. V oblasti financí by zastupitelé vždy povinně schválili projekty, které jsou v souladu s body 5.5 a 5.6, ostatní projekty by nesměly být ani navrženy do hlasování a pokud by navrženy byly, tak musejí být odmítnuty
 1. TO DO o čem dalším mohou zastupitelé hlasovat než poplatky, omezení a finance
 
-# Financí obce
-1. Obec získává podíl z vybraných daní (TODO citatace zákona a specifikovat jaký podíl)
-1. Část výdajů obce je pevně stanovena zákonem nejde o nich rozhodovat (TODO podrobnosti)
-1. Zbytek financí obce by se rozdělil na virtuální účty občanů. Rozdělení by bylo rovným dílem, protože asi nemáme jak zjistit, jaký přínos měli jednotliví občané.
-1. Pro jednotlivé rozpočtové položky by se vytvořily virtuální účty. Občané by mohli prostředky ze svých virtuálních účtů rozdělovat mezi virtuální účty projektů.
-1. Občané by si mohli vybrat svého zmocněnce, který by správu jejich virtuálního účtu prováděl za ně. Toto zmocnění by mohli kdykoliv zrušit
-1. Projekty by měli uvedenou minimální částku, kterou musejí získat, aby byly realizovány.
-1. Občané mají možnost navrhovat vlastní projekty. Projekt musí být v souladu se zákonem (TODO zásada dobrého hospodáře) a zároveň v souladu s principem neagrese
-1. Na začátku by se nastavily finance do projektů podle rozpočtu z posledního roku, a dala by se občanům možnost tento stav změnit. 
-
 # Různé, FAQ
 1. Je nutné udržovat dobré vztahy s původními obyvateli, aby nepodávaly různé stížnosti (TODO co vše mohou podat). Je nutné jim vysvětlit, že pro ně může situace fungovat stejně jako před příchodem anarchokapitlastů, viz bod 5.8. Pokud se tam najde nějaký aktivní občan je dobré ho podporovat v tom, aby získal souhlasy svých spoluobčanů rozhodovat o jejich virtuálním účtu.
 1. Jedná se o první krok, obec rozhoduje sice jen o malé části vybraných daní, ale je to možný proof of concept, ukázat, že něco funguje. Je to lepší než nedělat nic. Někde musíme začít.
