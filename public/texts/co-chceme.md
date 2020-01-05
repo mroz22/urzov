@@ -13,6 +13,10 @@ Zákon o rozpočtových pravidlech územních rozpočtů (250/2000 Sb.) § 9
 - h) výdaje na podporu subjektů provádějících veřejně prospěšné činnosti a na podporu soukromého podnikání prospěšného pro obec,
 - i) jiné výdaje uskutečněné v rámci působnosti obce, včetně darů a příspěvků na sociální nebo jiné humanitární účely.
 
+# TODO
+- Získat rozpočty malých obcí, aby se vytvořila představa o obvyklé struktuře rozpočtu
+- Získat rozpočty velkých obcí, aby se zjistilo, jaké jsou hranice, co vše je možné financovat
+
 # Odkazy
 - Zákon o rozpočtových pravidlech územních rozpočtů (úplné znění) https://www.zakonyprolidi.cz/cs/2000-250
 - Zákon o rozpočtových pravidlech územních rozpočtů (vybrané části) https://tinyurl.com/w3mwz9q
