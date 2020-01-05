@@ -2,7 +2,7 @@
 
 Chceme, aby občanům obce se vrátila kontrola alespoň nad částí daní, které musí dle zákonů nedobrovolně odevzdat státu. Část těchto daní je přesměrována do rozpočtu obcí, chceme v rámci zákonů maximalizovat možnost rozhodování občasnů naší anarcho obce nad těmito penězi.
 
-# Financí obce
+# Finance obce
 1. Obec získává podíl z vybraných daní (TODO citatace zákona a specifikovat jaký podíl)
 1. Část výdajů obce je pevně stanovena zákonem nejde o nich rozhodovat (TODO podrobnosti)
 1. Zbytek financí obce by se rozdělil na virtuální účty občanů. Rozdělení by bylo rovným dílem, protože asi nemáme jak zjistit, jaký přínos měli jednotliví občané.
