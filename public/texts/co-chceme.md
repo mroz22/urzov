@@ -1,6 +1,6 @@
 # Co chceme
 
-waaa
+Chceme, aby občanům obce se vrátila kontrola alespoň nad částí daní, které musí dle zákonů nedobrovolně odevzdat státu. Část těchto daní je přesměrována do rozpočtu obcí, chceme v rámci zákonů maximalizovat možnost rozhodování občasnů naší anarcho obce nad těmito penězi.
 
 # Co vše je možné financovat z obecního rozpočtu
 
