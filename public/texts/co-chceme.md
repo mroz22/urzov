@@ -2,6 +2,16 @@
 
 Chceme, aby občanům obce se vrátila kontrola alespoň nad částí daní, které musí dle zákonů nedobrovolně odevzdat státu. Část těchto daní je přesměrována do rozpočtu obcí, chceme v rámci zákonů maximalizovat možnost rozhodování občasnů naší anarcho obce nad těmito penězi.
 
+# Financí obce
+1. Obec získává podíl z vybraných daní (TODO citatace zákona a specifikovat jaký podíl)
+1. Část výdajů obce je pevně stanovena zákonem nejde o nich rozhodovat (TODO podrobnosti)
+1. Zbytek financí obce by se rozdělil na virtuální účty občanů. Rozdělení by bylo rovným dílem, protože asi nemáme jak zjistit, jaký přínos měli jednotliví občané.
+1. Pro jednotlivé rozpočtové položky by se vytvořily virtuální účty. Občané by mohli prostředky ze svých virtuálních účtů rozdělovat mezi virtuální účty projektů.
+1. Občané by si mohli vybrat svého zmocněnce, který by správu jejich virtuálního účtu prováděl za ně. Toto zmocnění by mohli kdykoliv zrušit
+1. Projekty by měli uvedenou minimální částku, kterou musejí získat, aby byly realizovány.
+1. Občané mají možnost navrhovat vlastní projekty. Projekt musí být v souladu se zákonem (TODO zásada dobrého hospodáře) a zároveň v souladu s principem neagrese
+1. Na začátku by se nastavily finance do projektů podle rozpočtu z posledního roku, a dala by se občanům možnost tento stav změnit. 
+
 # Co vše je možné financovat z obecního rozpočtu
 
 Zákon o rozpočtových pravidlech územních rozpočtů (250/2000 Sb.) § 9
