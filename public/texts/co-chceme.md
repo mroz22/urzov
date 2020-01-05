@@ -19,9 +19,11 @@ Zákon o rozpočtových pravidlech územních rozpočtů (250/2000 Sb.) § 9
 - Získat rozpočty velkých obcí, aby se zjistilo, jaké jsou hranice, co vše je možné financovat
 
 (2) Stanovit procesy a formalizovat je
-- Nastudovat legislativu, zejména zákon o obcích
+- Nastudovat legislativu, zejména zákon o obcích a zákon o rozpočtových pravidlech územních rozpočtů
 - Vypracovat návrh informačního systém spravujícího virtuální účty
 
 # Odkazy
 - Zákon o rozpočtových pravidlech územních rozpočtů (úplné znění) https://www.zakonyprolidi.cz/cs/2000-250
 - Zákon o rozpočtových pravidlech územních rozpočtů (vybrané části) https://tinyurl.com/w3mwz9q
+- Zákon o obcích (úplné znění) https://www.zakonyprolidi.cz/cs/2000-128
+- Zákon o obcích (vybrané části) http://tiny.cc/8zubiz
