@@ -6,7 +6,7 @@ waaa
 
 Zákon o rozpočtových pravidlech územních rozpočtů (250/2000 Sb.) § 9
 
-- (1) Z rozpočtu obce se hradí zejména
+(1) Z rozpočtu obce se hradí zejména
 - a) závazky vyplývající pro obec z plnění povinností uložených jí zákony,
 - b) výdaje na vlastní činnost obce v její samostatné působnosti, zejména výdaje spojené s péčí o vlastní majetek a jeho rozvoj,
 - c) výdaje spojené s výkonem státní správy, ke které je obec pověřena zákonem,
