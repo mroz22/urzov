@@ -21,7 +21,7 @@
 1. U potenciálních členů obecního zastupitelsva by byl vhodné v obci trávit alespoň nějaký čas. Pokud by si někdo stěžoval na výsledky voleb, existuje precedent, že kandidát nezdžující se v obci může ztratit mandát (TODO odkaz na ten rozsudek)
 
 # Volby
-1. Volební kandidátku nutno složit z lidí, kteří se v obci mají trvalé bydliště, alespoň částečně se tam zdržují a byli by ochotni věnovat svůj čas schůzím zastupitelstva, aby byly usnášení schopné. (TODO minální počty zastupitelů pro volbu a pro usnášení schopnost)
+1. Volební kandidátku nutno složit z lidí, kteří se v obci mají trvalé bydliště, alespoň částečně se tam zdržují a byli by ochotni věnovat svůj čas schůzím zastupitelstva, aby byly usnášení schopné. Obec musí mít nejméně 5 zastupitelů. (TODO mininální počty zastupitelů pro usnášení schopnost)
 1. Pokud by anarchopakitaliste neměli v obci většinu je nutno přesvědčít i část původních obyvatel.
 1. Kandidát by mohl dobrovolně složit zástavu v kryptoměně, kterou by jistil, že se nezpronevěří principům anarchokapitalistické obce. V případě sporu by rozhodoval dopředu jmenovaný rozhodce.
 
