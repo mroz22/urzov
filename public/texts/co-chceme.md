@@ -14,7 +14,7 @@ Zákon o rozpočtových pravidlech územních rozpočtů (250/2000 Sb.) § 9
 - i) jiné výdaje uskutečněné v rámci působnosti obce, včetně darů a příspěvků na sociální nebo jiné humanitární účely.
 
 # TODO
-1. Sestavit přehled tooho, co lze z obecního rozpočtu financovat
+1. Sestavit přehled toho, co lze z obecního rozpočtu financovat
 - Získat rozpočty malých obcí, aby se vytvořila představa o obvyklé struktuře rozpočtu
 - Získat rozpočty velkých obcí, aby se zjistilo, jaké jsou hranice, co vše je možné financovat
 2. Stanovit procesy a formalizovat je
