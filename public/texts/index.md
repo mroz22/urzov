@@ -67,5 +67,3 @@ Vysoká Lhota (15), Čilá (19), Hradiště (24), Bludov (24), Kaničky (29), Č
 - Změna trvalého bydliště https://www.mvcr.cz/clanek/hlaseni-trvaleho-pobytu-996765.aspx
 - Zákon o obcích (úplné znění) https://www.zakonyprolidi.cz/cs/2000-128
 - Zákon o obcích (vybrané části) http://tiny.cc/8zubiz
-- Zákon o rozpočtových pravidlech územních rozpočtů (úplné znění) https://www.zakonyprolidi.cz/cs/2000-250
-- Zákon o rozpočtových pravidlech územních rozpočtů (vybrané části) https://tinyurl.com/w3mwz9q
