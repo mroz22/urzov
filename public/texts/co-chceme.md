@@ -41,3 +41,4 @@ Zákon o rozpočtových pravidlech územních rozpočtů (250/2000 Sb.) § 9
 - Vyhláška Ministerstva financí o rozpočtové skladbě (úplné znění) https://www.zakonyprolidi.cz/cs/2002-323
 - Průvodce komunálními rozpočty https://www.transparency.cz/wp-content/uploads/kr_pruvodce2008.pdf
 - Informační systém ARIS, přehled veřejných rozpočtů http://wwwinfo.mfcr.cz/aris/
+- Závěrečný účet obce Praha 2018 http://www.praha.eu/file/2945728/_3.a_bezne_vydaje.pdf
