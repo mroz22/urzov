@@ -39,3 +39,4 @@ Zákon o rozpočtových pravidlech územních rozpočtů (250/2000 Sb.) § 9
 - Zákon o obcích (vybrané části) http://tiny.cc/8zubiz
 - Rozpočtové hospodaření https://www.mvcr.cz/soubor/rozpoctove-hospodareni-pro-zastupitele-obci.aspx
 - Vyhláška Ministerstva financí o rozpočtové skladbě (úplné znění) https://www.zakonyprolidi.cz/cs/2002-323
+- Průvodce komunálními rozpočty https://www.transparency.cz/wp-content/uploads/kr_pruvodce2008.pdf
